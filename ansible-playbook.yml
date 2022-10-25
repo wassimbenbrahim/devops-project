@@ -2,7 +2,6 @@
 - name: wassim-playbook
   hosts: localhost
   remote_user: root
-  become: true
   tasks:
 
     - name: Run sonarQube contanier
