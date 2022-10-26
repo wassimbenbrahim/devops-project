@@ -1,2 +1,0 @@
-# devops-project
-CI/CD
